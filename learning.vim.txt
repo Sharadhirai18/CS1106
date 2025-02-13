@@ -1,0 +1,11 @@
+Q1: How do you change the mode from edit to ready-only?
+ans: <esc>
+Q2: How do you (a) save the file you are editing, and (b) close the file you're editing?
+ans:(a) <ESC>   :wq   <ENTER> 
+    (b) <ESC>   :q!   <ENTER>
+ans3:(a) x
+     (b) dw
+     (c) dd
+Q4:you're editing the document (in editing mode). explain how will you'll replace one word with another?
+ans:R
+
